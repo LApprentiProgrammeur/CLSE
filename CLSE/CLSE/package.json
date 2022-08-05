@@ -1,0 +1,9 @@
+{
+  "name": "clse",
+  "version": "0.0.0",
+  "description": "CLSE",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

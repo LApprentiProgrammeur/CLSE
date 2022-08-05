@@ -1,0 +1,3 @@
+C:\Users\ljraf\source\repos\CLSE\CLSE\obj\Debug\CLSE.njsproj.AssemblyReference.cache
+C:\Users\ljraf\source\repos\CLSE\CLSE\obj\Debug\CLSE.njsproj.CoreCompileInputs.cache
+C:\Users\ljraf\source\repos\CLSE\CLSE\bin\Microsoft.NodejsTools.WebRole.dll
